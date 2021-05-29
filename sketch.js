@@ -5,7 +5,7 @@ var s=5;
 var b=5;
 var score=0;
 function setup() {
-  createCanvas(1536,751);
+  createCanvas(windowWidth,windowHeight);
 }
 
 function draw() {
